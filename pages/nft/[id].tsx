@@ -85,7 +85,7 @@ export default function NFTDropPage() {
 					</h1>
 
 					<p className="pt-2 text-xl text-green-500">
-						13 / 21 NFT's claimed
+						13 / 21 {`NFT's`} claimed
 					</p>
 				</div>
 
